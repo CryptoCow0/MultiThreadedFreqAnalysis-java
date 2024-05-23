@@ -1,0 +1,15 @@
+Serial function that was made WITHIN project.java does not work and overcounts
+
+
+##################################
+Good news
+the code that was submitted works: ! double tripple check this
+#######
+
+Need to test:
+1 billion on lab computers
+make graphs using whatever computer is avaibale but use around 8 cores to test the fucntions
+
+##########
+
+use the profiler a lot more because it took way to long to set up to only use a few times.
