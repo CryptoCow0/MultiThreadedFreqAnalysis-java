@@ -19,7 +19,7 @@ A correct running would then output:
 ## Multithreading (project.java)
 This code uses Atomic Integers to ensure Thread safety, avoid Race Conditions, and for simplicity. It uses SERIAL_RANDOM_THINGS.py to generate a random string of a specified size, then you can run the project.java with this to perform frequency analysis
 
-Analysis was done in a separate paper and 4 cores should be sufficient for files larger than 1 billion so that was hardcoded in. Please refer to [report](./Paper/report.pdf)
+Analysis was done in a separate paper and 4 cores should be sufficient for files larger than 1 billion so that was hardcoded in. Please refer to [report](./Paper/Report.pdf)
 
 ## Serial Implementation (serial.java)
 Before trying to run this code in parallel, I designed the serial implementation, which is also available. It runs decently quickly even at larger levels. However, past testing on files with 100,000,000 characters suggests using Multi-threaded implementation.
