@@ -28,7 +28,7 @@ Before trying to run this code in parallel, I designed the serial implementation
 ## Dependencies and Setup
 
 Ensure that `SERIAL_RANDOM_THINGS.py` is available and executable. <br />
-JDK is required to compile and run the Java code. Ensure that you have JDK 8 or higher installed. < br/>
+JDK is required to compile and run the Java code. Ensure that you have JDK 8 or higher installed.  <br />
 
 
 ## USAGE
