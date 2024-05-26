@@ -3,7 +3,7 @@ Takes an input file of all lowercase characters and outputs how often each chara
 
 ## Overview
 The input file will consist of lowercase characters, all on one line. For example:
-| Column 1 |
+| Example 1 |
 |----------|
 | aabgeaf  |
 
