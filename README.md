@@ -18,7 +18,7 @@ A correct running would then output:
 
 ## Multithreading (project.java)
 This code uses Atomic Integers to ensure Thread safety, avoid Race Conditions, and for simplicity
-It uses SERIAL_RANDOM_THINGS.py made by Luke Henke to generate a random string of a specified size, then you can run the project.java with this to perform Frequency analysis
+It uses SERIAL_RANDOM_THINGS.py to generate a random string of a specified size, then you can run the project.java with this to perform Frequency analysis
 
 Analysis was done in a separate paper and 8 cores should be sufficient for files larger than 1 billion so that was hardcoded in.
 
